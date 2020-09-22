@@ -1,0 +1,4 @@
+
+Numerical data is in  Data.txt
+
+The result of the fft in result.txt. You can chart this data in excel or another application.
